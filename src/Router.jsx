@@ -5,7 +5,7 @@ import Quemsomos from './pages/Quemsomos'
 import Cadastro from './pages/Cadastro'
 import Footer from './components/Footer'
 import Croche from './pages/Croche'
-import Macrame from './pages/macrame'
+import Macrame from './pages/Macrame'
 
 
 const Router = () => {
