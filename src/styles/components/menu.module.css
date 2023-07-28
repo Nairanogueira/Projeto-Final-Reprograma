@@ -1,0 +1,29 @@
+.menuConteiner {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.menuText {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem;
+    list-style: none;
+}
+
+.menuLink {
+    text-decoration: none;
+    color: rgb(195, 56, 223);
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.slogan {
+    width: 4.5%;
+    padding: 0.8rem;
+    display: flex;
+}
+
+
+

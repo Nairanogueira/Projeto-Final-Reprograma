@@ -1,0 +1,79 @@
+main {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.cardUm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    margin-right: 3rem;
+}
+
+.cardDois {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+}
+
+.cardTres {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    margin-left: 8rem;
+    margin-right: 7rem;
+}
+
+.quemSomosCroche {
+    border-radius: 100%;
+    width: 20rem;
+    margin-left: 5rem;
+    margin-right: 3rem;
+}
+
+.quemSomosMacrame {
+    display: flex;
+    border-radius: 100%;
+    width: 20rem;
+    justify-content: flex-end;
+    margin-left: 3rem;
+}
+
+.quemSomosNaira {
+    border-radius: 100%;
+    width: 25rem;
+    margin-right: 4rem;
+    
+}
+
+.texto {
+    color: #CC57C7;
+    text-align: center;
+    margin: 0%;
+    font-size: 1rem;
+}
+
+.nairaRedes {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10rem;
+    margin-top: 0%;
+}
+
+a {
+    display: flex;
+    font-size: 2rem;
+    color: #CC57C7;
+    text-decoration: none;
+}
+
+.title {
+    color: #791c74;
+    margin-top: 4rem;
+}

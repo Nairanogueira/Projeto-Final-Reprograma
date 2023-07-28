@@ -1,0 +1,35 @@
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* flex-direction: column; */
+    padding: 2rem;
+    align-items: center;
+}
+
+.form div {
+    display: flex;
+    flex-direction: column;
+}
+
+.formInput {
+   width: 20rem;
+   height: 2.3rem;
+   margin: 0.6rem;
+   border: 2px solid #791c74;
+   border-radius: 5px;
+}
+
+.formButton {
+    margin: 0%;
+    font-weight: bold;
+    margin-left: 2.5rem;
+}
+
+
