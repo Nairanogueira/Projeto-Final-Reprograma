@@ -111,9 +111,11 @@ Siga os passos e inclua as informações abaixo:
 
 ## Objetivos
 
-´1´	Ajudar mulheres que não tenham alcance ao mundo das tecnologias;
-´2´	Contribuir para a ascensão social e financeira dessas mulheres;
-´3´	Site com grande poder de divulgação.
+`1`	Ajudar mulheres que não tenham alcance ao mundo das tecnologias;
+
+`2`	Contribuir para a ascensão social e financeira dessas mulheres;
+
+`3`	Site com grande poder de divulgação.
 
 
 ## Agradecimentos
