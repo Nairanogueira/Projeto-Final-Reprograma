@@ -2,7 +2,7 @@
 
 <h1  align="center">
 
-<img src="./assets/slogan-remove.png" alt="minha logo" width="500"> 
+<img src="./assets/slogan.png" alt="minha logo" width="700"> 
 
 </h1>
 
@@ -54,11 +54,17 @@ O intuito de ajudar mulheres negras e/ou pobres que trabalhem com o artesanato e
 | Ferramenta | Descrição |
 
 | `ReactJS` | Framework web |
+
 | `Vite` | Gerador de projeto de front-end |
+
 | `npm` | Gerenciador de pacotes |
+
 | `Module CSS` | Ferramenta para ter mais produtividade ao estilizar a aplicação |
+
 | `React router dom` | Dependência para criar rotas no reactjs |
+
 | `Netlify` | Hospedagem para a aplicação, fiz o deploy integrado com o github |
+
 | `Github` | Hospedagem do código fonte integrado com gerenciador de versionamento |
 
 <br />
@@ -70,8 +76,11 @@ Siga os passos e inclua as informações abaixo:
 |&nbsp;&nbsp;&nbsp;&nbsp; Passo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Comando/informação &nbsp;&nbsp;&nbsp;|
 
 | Faça o fork | `botão de forkar` |
+
 | Faça o clone | `git clone` |
+
 | Instale as dependências após acessar a pasta projeto | `npm i` |
+
 | Rode o projeto | `npm run dev` |
 
 <br  />
