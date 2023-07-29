@@ -99,6 +99,23 @@ Siga os passos e inclua as informações abaixo:
 - E outro aprendizado foi confiar mais em mim, entender que o meu processo é unicamente meu e me comparar com os outros só me atrapalha e me deixa frustada. Meu parâmetro de comparação deve sempre ser eu mesma! 
 
 
+## Problema 
+
+- Como criar meios de ajudar mulheres que buscam impulsionar seus trabalhos artesanais que na atualidade são desvalorizados através da tecnologia?
+
+
+## Hipótese 
+
+- Adentrando o mundo das tecnologias com a criação de website que tenha o intuito de divulgar trabalhos artesanais de mulheres que estejam em vulnerabilidade social de forma gratuita e objetiva. 
+
+
+## Objetivos
+
+´1´	Ajudar mulheres que não tenham alcance ao mundo das tecnologias;
+´2´	Contribuir para a ascensão social e financeira dessas mulheres;
+´3´	Site com grande poder de divulgação.
+
+
 ## Agradecimentos
 
 Quero agradecer ao SANTANDER por ter patrocinado o curso de Front-end, agradeço a toda a equipe da {REPROGRAMA}, em especial à nossa facilitadora a Mari, a todas as professoras, a Thi, nossa primeira, a Rocks, a Ana e a Lilit, todas tem um espeço especial nesse processo de aprendizagem. Quero agradecer também a Ju,a Liana, a nossa lider técnica Paulinha e a todas as minhas parceiras/colegas de turma, sempre muito unidas, sem elas com certeza eu não teria concluído mais essa etapa. Sim! Epata! Porque tenho muito caminho pela frente! Continuo agradecendo também a minha família, pai, mãe, irmãos, tia, esposo e amigos, em especial ao casal Rai e Diego, que me ajudaram diretamente ou indiretamente nessa jornada. Sempre serei grata! Muito Obrigada!<3'
