@@ -2,7 +2,7 @@
 
 <h1  align="center">
 
-<img src="./assets/slogan.png" alt="minha logo" width="700"> 
+<img src="./assets/slogan.png" alt="minha logo" width="900"> 
 
 </h1>
 
@@ -10,7 +10,7 @@
 
 ### Quem é a Náira Nogueira? 
 
-<img src='./assets/eu-naira-remove.png' width=500 alt='foto de Náira'> 
+<img src='./assets/eu-naira-remove.png' width=300 alt='foto de Náira'> 
 
 [Náira Nogueira](https://www.instagram.com/naira.nog/), tenho 28 anos, sou formada em Língua Portuguesa pela Universidade do Estado da Bahia, oriunda de uma pequena cidade do interior da Bahia, chamada Governador Mangabeira, conheci a Reprograma através de uma amiga que já tinha feito o curso de Front-End. Buscando estabilidade financeira e um novo objetivo de vida, 
 entrei no mundo da Tecnologia sem nunca ter tido contato com o mais simples desenvolvimento de códigos, hoje tenho conhecimentos básicos sobre html, css, JS, React, Git Bash e Github.
