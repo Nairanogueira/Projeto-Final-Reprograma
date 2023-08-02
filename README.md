@@ -27,7 +27,7 @@ entrei no mundo da Tecnologia sem nunca ter tido contato com o mais simples dese
 
 ### 🧠 Contexto
 
-O intuito de ajudar mulheres negras e/ou pobres que trabalhem com o artesanato e estejam precisando impussionar as suas vendas, este website é desenvolvido para divulgar esses trabalhos de forma totalmente gratuita.
+O intuito de ajudar mulheres negras e/ou pobres que trabalhem com o artesanato e estejam precisando impulsionar as suas vendas, este website é desenvolvido para divulgar esses trabalhos de forma totalmente gratuita.
 
 ### O site conterem 5 páginas:
 
